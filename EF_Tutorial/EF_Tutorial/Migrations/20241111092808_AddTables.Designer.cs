@@ -3,6 +3,7 @@ using EF_Tutorial;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EF_Tutorial.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20241111092808_AddTables")]
+    partial class AddTables
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -39,7 +42,7 @@ namespace EF_Tutorial.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("AuditEntry", (string)null);
+                    b.ToTable("AuditEntry");
                 });
 
             modelBuilder.Entity("EF_Tutorial.Models.Blog", b =>
@@ -56,7 +59,7 @@ namespace EF_Tutorial.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Blogs", (string)null);
+                    b.ToTable("Blogs");
                 });
 
             modelBuilder.Entity("EF_Tutorial.Models.Post", b =>
@@ -82,7 +85,7 @@ namespace EF_Tutorial.Migrations
 
                     b.HasIndex("BlogId");
 
-                    b.ToTable("Posts", (string)null);
+                    b.ToTable("Posts");
                 });
 
             modelBuilder.Entity("EF_Tutorial.Models.Post", b =>

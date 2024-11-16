@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EfVTMXa/iRzR3+AbUIYI9U6n1MkFq4m0gP0pYEQIN9Oyg4tiP4V0LhwRKvL0Z6ylryg4eHkEMxMOb+pfXOPQ1A==",
+  "dgSpecHash": "E1Z/JzDHx8JvM4dv2D79Lzk3KdfWguzAylksy1CniULNPxKky7GcT+4x23itnxZRB/3Nsm5fge717tyeg+/jpg==",
   "success": true,
-  "projectFilePath": "E:\\Mahmoud_Workspace\\Studying Projects\\EF_Tutorial\\EF_Tutorial\\EF_Tutorial.csproj",
+  "projectFilePath": "E:\\Mahmoud_Workspace\\Study Repo\\StudyingProjects\\EF_Tutorial\\EF_Tutorial\\EF_Tutorial.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mahmoud.assem\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\mahmoud.assem\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

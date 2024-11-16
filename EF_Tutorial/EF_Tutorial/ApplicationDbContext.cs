@@ -17,8 +17,15 @@ namespace EF_Tutorial
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<AuditEntry>();
             new BlogEntityTypeConfiguration().Configure(modelBuilder.Entity<Blog>());
+            
+            modelBuilder.Entity<Blog>()
+                .Ignore(b => b.AddedOn);
         }
         public DbSet<Blog> Blogs { get; set; }
+        public DbSet<Post> Posts { get; set; }
+        public DbSet<Book> Books { get; set; }
+
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Mahmoud_Workspace\\Studying Projects\\EF_Tutorial\\EF_Tutorial\\EF_Tutorial.csproj": {}
+    "E:\\Mahmoud_Workspace\\Study Repo\\StudyingProjects\\EF_Tutorial\\EF_Tutorial\\EF_Tutorial.csproj": {}
   },
   "projects": {
-    "E:\\Mahmoud_Workspace\\Studying Projects\\EF_Tutorial\\EF_Tutorial\\EF_Tutorial.csproj": {
+    "E:\\Mahmoud_Workspace\\Study Repo\\StudyingProjects\\EF_Tutorial\\EF_Tutorial\\EF_Tutorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Mahmoud_Workspace\\Studying Projects\\EF_Tutorial\\EF_Tutorial\\EF_Tutorial.csproj",
+        "projectUniqueName": "E:\\Mahmoud_Workspace\\Study Repo\\StudyingProjects\\EF_Tutorial\\EF_Tutorial\\EF_Tutorial.csproj",
         "projectName": "EF_Tutorial",
-        "projectPath": "E:\\Mahmoud_Workspace\\Studying Projects\\EF_Tutorial\\EF_Tutorial\\EF_Tutorial.csproj",
+        "projectPath": "E:\\Mahmoud_Workspace\\Study Repo\\StudyingProjects\\EF_Tutorial\\EF_Tutorial\\EF_Tutorial.csproj",
         "packagesPath": "C:\\Users\\mahmoud.assem\\.nuget\\packages\\",
-        "outputPath": "E:\\Mahmoud_Workspace\\Studying Projects\\EF_Tutorial\\EF_Tutorial\\obj\\",
+        "outputPath": "E:\\Mahmoud_Workspace\\Study Repo\\StudyingProjects\\EF_Tutorial\\EF_Tutorial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mahmoud.assem\\AppData\\Roaming\\NuGet\\NuGet.Config",
