@@ -7,10 +7,11 @@ using System.Threading.Tasks;
 
 namespace EF_Tutorial.Models
 {
-    public class Book
+    public class Category
     {
-        public int BookKey { get; set; }
-        public string Name { get; set; }   
-        public string Author { get; set; }
+        public byte Id { get; set; }
+
+        [Required]
+        public string Name { get; set; }
     }
 }

@@ -13,7 +13,9 @@ namespace EF_Tutorial.Models
         public int Id { get; set; }
         
         public string? Url { get; set; }
-        public DateTime AddedOn { get; set; }
+        public DateTime AddedOn { get; set; } // Neglected in ApplicationDbContext.cs (modelBuilder)
+        public DateTime CreateDate { get; set; }
+        public int Rating { get; set; }       
         public List<Post> Posts{ get; set; }
     }
 }

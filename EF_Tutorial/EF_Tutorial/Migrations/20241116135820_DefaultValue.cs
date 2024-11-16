@@ -5,11 +5,18 @@
 namespace EF_Tutorial.Migrations
 {
     /// <inheritdoc />
-    public partial class AddTables : Migration
+    public partial class DefaultValue : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
+            migrationBuilder.AddColumn<int>(
+                name: "Rating",
+                table: "Blogs",
+                type: "int",
+                nullable: false,
+                defaultValue: 2);
+
             migrationBuilder.CreateTable(
                 name: "AuditEntry",
                 columns: table => new
@@ -22,6 +29,20 @@ namespace EF_Tutorial.Migrations
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_AuditEntry", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Books",
+                columns: table => new
+                {
+                    BookKey = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Author = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_BookKey", x => x.BookKey);
                 });
 
             migrationBuilder.CreateTable(
@@ -58,7 +79,14 @@ namespace EF_Tutorial.Migrations
                 name: "AuditEntry");
 
             migrationBuilder.DropTable(
+                name: "Books");
+
+            migrationBuilder.DropTable(
                 name: "Posts");
+
+            migrationBuilder.DropColumn(
+                name: "Rating",
+                table: "Blogs");
         }
     }
 }

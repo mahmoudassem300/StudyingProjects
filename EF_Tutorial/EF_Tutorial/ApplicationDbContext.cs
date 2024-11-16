@@ -22,10 +22,30 @@ namespace EF_Tutorial
             
             modelBuilder.Entity<Blog>()
                 .Ignore(b => b.AddedOn);
-        }
+            modelBuilder.Entity<Book>()
+
+                .HasKey(b => b.BookKey)
+                .HasName("PK_BookKey");
+
+            modelBuilder.Entity<Blog>()
+                .Property(b => b.Rating)
+                .HasDefaultValue(2);
+
+            modelBuilder.Entity<Blog>()
+               .Property(b => b.CreateDate)
+               .HasDefaultValueSql("getdate()"); //Retrieve the current date of the DB
+
+            modelBuilder.Entity<Author>()
+                .Property(b => b.DisplayName)
+                .HasComputedColumnSql("[FirstName] + ' ' + [LastName]"); // Computed Column
+        } 
         public DbSet<Blog> Blogs { get; set; }
         public DbSet<Post> Posts { get; set; }
         public DbSet<Book> Books { get; set; }
+        public DbSet<Author> Authors { get; set; }
+        public DbSet<Category> Categories{ get; set; }
+
+
 
     }
 }
