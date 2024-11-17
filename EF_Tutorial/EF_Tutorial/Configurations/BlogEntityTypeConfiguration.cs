@@ -15,6 +15,7 @@ namespace EF_Tutorial.Configurations
         public void Configure(EntityTypeBuilder<Blog> builder)
         {
             builder.Property(m => m.Url).IsRequired();
+            builder.Property(m => m.Url).HasMaxLength(1000);
         }
     }
 }

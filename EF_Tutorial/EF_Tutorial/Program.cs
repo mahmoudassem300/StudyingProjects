@@ -8,20 +8,20 @@ namespace EF_Tutorial
     {
         static void Main(string[] args)
         {
-            var dbContext = new ApplicationDbContext();
-            //var blog = new Blog
+            //var dbContext = new ApplicationDbContext();
+            ////var blog = new Blog
+            ////{
+            ////    Url = "https://example2.com",
+            ////    Rating = 6,
+            ////};
+            ////dbContext.Blogs.Add(blog);
+            //var author = new Author
             //{
-            //    Url = "https://example2.com",
-            //    Rating = 6,
+            //    FirstName = "Mahmoud",
+            //    LastName = "Assem",
             //};
-            //dbContext.Blogs.Add(blog);
-            var author = new Author
-            {
-                FirstName = "Mahmoud",
-                LastName = "Assem",
-            };
-            dbContext.Authors.Add(author);
-            dbContext.SaveChanges();
+            //dbContext.Authors.Add(author);
+            //dbContext.SaveChanges();
         }
     }
 }
