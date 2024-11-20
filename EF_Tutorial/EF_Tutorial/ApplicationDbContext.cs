@@ -18,14 +18,30 @@ namespace EF_Tutorial
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             new BlogEntityTypeConfiguration().Configure(modelBuilder.Entity<Blog>());
-            modelBuilder.Entity<Blog>()
-                .HasOne(b => b.BlogImage)
-                .WithOne(i => i.Blog)
-                .HasForeignKey<BlogImage>(b => b.BlogFK);
+            modelBuilder.Entity<Post>()
+                .HasMany(b => b.Tags)
+                .WithMany(t => t.Posts)
+                .UsingEntity<PostTags>(
+                    j => j
+                    .HasOne(pt => pt.Tag)
+                    .WithMany(pt => pt.PostTags)
+                    .HasForeignKey(pt => pt.TagId),
+
+                    j => j
+                    .HasOne(pt => pt.Post)
+                    .WithMany(pt => pt.PostTags)
+                    .HasForeignKey(pt => pt.PostId),
+
+                    j =>
+                    {
+                        j.HasKey(pt => new { pt.PostId, pt.TagId });
+                    }
+                );
         }   
             
-        public DbSet<Blog> Blogs { get; set; }
-        public DbSet<BlogImage> BlogImages { get; set; }
+        //public DbSet<Blog> Blogs { get; set; }
+        public DbSet<Post> Posts { get; set; }
+        public DbSet<Tag> Tags { get; set; }
 
     }
 }

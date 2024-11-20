@@ -12,6 +12,7 @@ namespace EF_Tutorial.Models
         public int Id { get; set; }
         public string Name { get; set; }
         public string Content { get; set; }
-        public Blog Blog { get; set; }
+        public ICollection<Tag> Tags { get; set;}
+        public List<PostTags> PostTags { get; set;}
     }
 }

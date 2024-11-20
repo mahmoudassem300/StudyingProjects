@@ -7,6 +7,22 @@
       "RelativeMoniker": "D:0:0:{EF483291-27CC-4B2B-9519-267D1C62D91F}|EF_Tutorial\\EF_Tutorial.csproj|solutionrelative:ef_tutorial\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EF483291-27CC-4B2B-9519-267D1C62D91F}|EF_Tutorial\\EF_Tutorial.csproj|e:\\mahmoud_workspace\\study repo\\studyingprojects\\ef_tutorial\\ef_tutorial\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF483291-27CC-4B2B-9519-267D1C62D91F}|EF_Tutorial\\EF_Tutorial.csproj|solutionrelative:ef_tutorial\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF483291-27CC-4B2B-9519-267D1C62D91F}|EF_Tutorial\\EF_Tutorial.csproj|e:\\mahmoud_workspace\\study repo\\studyingprojects\\ef_tutorial\\ef_tutorial\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF483291-27CC-4B2B-9519-267D1C62D91F}|EF_Tutorial\\EF_Tutorial.csproj|solutionrelative:ef_tutorial\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF483291-27CC-4B2B-9519-267D1C62D91F}|EF_Tutorial\\EF_Tutorial.csproj|e:\\mahmoud_workspace\\study repo\\studyingprojects\\ef_tutorial\\ef_tutorial\\models\\posttags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF483291-27CC-4B2B-9519-267D1C62D91F}|EF_Tutorial\\EF_Tutorial.csproj|solutionrelative:ef_tutorial\\models\\posttags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF483291-27CC-4B2B-9519-267D1C62D91F}|EF_Tutorial\\EF_Tutorial.csproj|e:\\mahmoud_workspace\\study repo\\studyingprojects\\ef_tutorial\\ef_tutorial\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF483291-27CC-4B2B-9519-267D1C62D91F}|EF_Tutorial\\EF_Tutorial.csproj|solutionrelative:ef_tutorial\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EF483291-27CC-4B2B-9519-267D1C62D91F}|EF_Tutorial\\EF_Tutorial.csproj|e:\\mahmoud_workspace\\study repo\\studyingprojects\\ef_tutorial\\ef_tutorial\\models\\blogimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF483291-27CC-4B2B-9519-267D1C62D91F}|EF_Tutorial\\EF_Tutorial.csproj|solutionrelative:ef_tutorial\\models\\blogimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,20 +31,12 @@
       "RelativeMoniker": "D:0:0:{EF483291-27CC-4B2B-9519-267D1C62D91F}|EF_Tutorial\\EF_Tutorial.csproj|solutionrelative:ef_tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF483291-27CC-4B2B-9519-267D1C62D91F}|EF_Tutorial\\EF_Tutorial.csproj|e:\\mahmoud_workspace\\study repo\\studyingprojects\\ef_tutorial\\ef_tutorial\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF483291-27CC-4B2B-9519-267D1C62D91F}|EF_Tutorial\\EF_Tutorial.csproj|solutionrelative:ef_tutorial\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EF483291-27CC-4B2B-9519-267D1C62D91F}|EF_Tutorial\\EF_Tutorial.csproj|e:\\mahmoud_workspace\\study repo\\studyingprojects\\ef_tutorial\\ef_tutorial\\configurations\\blogentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF483291-27CC-4B2B-9519-267D1C62D91F}|EF_Tutorial\\EF_Tutorial.csproj|solutionrelative:ef_tutorial\\configurations\\blogentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF483291-27CC-4B2B-9519-267D1C62D91F}|EF_Tutorial\\EF_Tutorial.csproj|e:\\mahmoud_workspace\\study repo\\studyingprojects\\ef_tutorial\\ef_tutorial\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF483291-27CC-4B2B-9519-267D1C62D91F}|EF_Tutorial\\EF_Tutorial.csproj|solutionrelative:ef_tutorial\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF483291-27CC-4B2B-9519-267D1C62D91F}|EF_Tutorial\\EF_Tutorial.csproj|e:\\mahmoud_workspace\\study repo\\studyingprojects\\ef_tutorial\\ef_tutorial\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF483291-27CC-4B2B-9519-267D1C62D91F}|EF_Tutorial\\EF_Tutorial.csproj|solutionrelative:ef_tutorial\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF483291-27CC-4B2B-9519-267D1C62D91F}|EF_Tutorial\\EF_Tutorial.csproj|e:\\mahmoud_workspace\\study repo\\studyingprojects\\ef_tutorial\\ef_tutorial\\models\\auditentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -48,7 +56,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -84,20 +92,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostTags.cs",
+              "DocumentMoniker": "E:\\Mahmoud_Workspace\\Study Repo\\StudyingProjects\\EF_Tutorial\\EF_Tutorial\\Models\\PostTags.cs",
+              "RelativeDocumentMoniker": "EF_Tutorial\\Models\\PostTags.cs",
+              "ToolTip": "E:\\Mahmoud_Workspace\\Study Repo\\StudyingProjects\\EF_Tutorial\\EF_Tutorial\\Models\\PostTags.cs",
+              "RelativeToolTip": "EF_Tutorial\\Models\\PostTags.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:16:04.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "E:\\Mahmoud_Workspace\\Study Repo\\StudyingProjects\\EF_Tutorial\\EF_Tutorial\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "EF_Tutorial\\Models\\Tag.cs",
+              "ToolTip": "E:\\Mahmoud_Workspace\\Study Repo\\StudyingProjects\\EF_Tutorial\\EF_Tutorial\\Models\\Tag.cs",
+              "RelativeToolTip": "EF_Tutorial\\Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:04:44.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "BlogImage.cs",
               "DocumentMoniker": "E:\\Mahmoud_Workspace\\Study Repo\\StudyingProjects\\EF_Tutorial\\EF_Tutorial\\Models\\BlogImage.cs",
               "RelativeDocumentMoniker": "EF_Tutorial\\Models\\BlogImage.cs",
               "ToolTip": "E:\\Mahmoud_Workspace\\Study Repo\\StudyingProjects\\EF_Tutorial\\EF_Tutorial\\Models\\BlogImage.cs",
               "RelativeToolTip": "EF_Tutorial\\Models\\BlogImage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T08:11:12.992Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Book.cs",
               "DocumentMoniker": "E:\\Mahmoud_Workspace\\Study Repo\\StudyingProjects\\EF_Tutorial\\EF_Tutorial\\Models\\Book.cs",
               "RelativeDocumentMoniker": "EF_Tutorial\\Models\\Book.cs",
@@ -105,12 +139,11 @@
               "RelativeToolTip": "EF_Tutorial\\Models\\Book.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T07:54:00.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T07:54:00.259Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "AuditEntry.cs",
               "DocumentMoniker": "E:\\Mahmoud_Workspace\\Study Repo\\StudyingProjects\\EF_Tutorial\\EF_Tutorial\\Models\\AuditEntry.cs",
               "RelativeDocumentMoniker": "EF_Tutorial\\Models\\AuditEntry.cs",
@@ -122,13 +155,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Post.cs",
               "DocumentMoniker": "E:\\Mahmoud_Workspace\\Study Repo\\StudyingProjects\\EF_Tutorial\\EF_Tutorial\\Models\\Post.cs",
               "RelativeDocumentMoniker": "EF_Tutorial\\Models\\Post.cs",
               "ToolTip": "E:\\Mahmoud_Workspace\\Study Repo\\StudyingProjects\\EF_Tutorial\\EF_Tutorial\\Models\\Post.cs",
               "RelativeToolTip": "EF_Tutorial\\Models\\Post.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T07:39:10.871Z",
               "EditorCaption": ""
@@ -141,27 +174,27 @@
               "RelativeDocumentMoniker": "EF_Tutorial\\ApplicationDbContext.cs",
               "ToolTip": "E:\\Mahmoud_Workspace\\Study Repo\\StudyingProjects\\EF_Tutorial\\EF_Tutorial\\ApplicationDbContext.cs",
               "RelativeToolTip": "EF_Tutorial\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBEAAABFAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAA3wCUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T08:26:30.837Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Blog.cs",
               "DocumentMoniker": "E:\\Mahmoud_Workspace\\Study Repo\\StudyingProjects\\EF_Tutorial\\EF_Tutorial\\Models\\Blog.cs",
               "RelativeDocumentMoniker": "EF_Tutorial\\Models\\Blog.cs",
               "ToolTip": "E:\\Mahmoud_Workspace\\Study Repo\\StudyingProjects\\EF_Tutorial\\EF_Tutorial\\Models\\Blog.cs",
               "RelativeToolTip": "EF_Tutorial\\Models\\Blog.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T14:17:00.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "BlogEntityTypeConfiguration.cs",
               "DocumentMoniker": "E:\\Mahmoud_Workspace\\Study Repo\\StudyingProjects\\EF_Tutorial\\EF_Tutorial\\Configurations\\BlogEntityTypeConfiguration.cs",
               "RelativeDocumentMoniker": "EF_Tutorial\\Configurations\\BlogEntityTypeConfiguration.cs",
@@ -169,12 +202,11 @@
               "RelativeToolTip": "EF_Tutorial\\Configurations\\BlogEntityTypeConfiguration.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T14:42:02.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T14:42:02.867Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Mahmoud_Workspace\\Study Repo\\StudyingProjects\\EF_Tutorial\\EF_Tutorial\\Program.cs",
               "RelativeDocumentMoniker": "EF_Tutorial\\Program.cs",
@@ -182,8 +214,7 @@
               "RelativeToolTip": "EF_Tutorial\\Program.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAQwBIAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T07:53:37.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T07:53:37.401Z"
             },
             {
               "$type": "Bookmark",
@@ -191,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "dbo.__EFMigrationsHistory [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/EFCore/True/SqlTable/dbo.__EFMigrationsHistory.sql",
               "ToolTip": "dbo.__EFMigrationsHistory [Data]",
@@ -200,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "dbo.Employees [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/EFCore/True/SqlTable/dbo.Employees.sql",
               "ToolTip": "dbo.Employees [Data]",
